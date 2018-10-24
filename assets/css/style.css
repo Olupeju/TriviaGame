@@ -1,0 +1,42 @@
+
+#container{
+    background-image: url("../images/Homw5.jpg");
+    background-size: cover;
+    max-width: 750px;
+    margin: auto;
+    border: solid 3px beige;
+    background-repeat: no-repeat;
+    margin-bottom: 10%;
+    height: 850px;
+}
+
+#title{
+    background-color:white;
+    color: darksalmon;
+    text-align: center;
+    font-size: 200%;
+    width: 40%;
+    margin-left: 30%;
+    /* position: relative; */
+    
+    
+
+}
+
+#start{
+    background-color:#313477;
+    color: white;
+    text-align: center;
+    font-size: 15pt;
+    border-radius: 15px;
+    border: 2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50%;
+}
+
+#wrapper{
+    
+}
+#subwrapper{
+    color: blanchedalmond;
+}
